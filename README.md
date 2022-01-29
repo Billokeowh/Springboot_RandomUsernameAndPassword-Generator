@@ -1,6 +1,6 @@
 # Springboot_RandomUsernameAndPassword-Generator
 
-A random Username and Passwords generator built using Springboot and Maven. Output is accessible using designated port. 
+A random Username and Passwords generator built using Springboot and Maven. Output is accessible using designated port utilizing Springboot web. 
 
 Sample output:
 
